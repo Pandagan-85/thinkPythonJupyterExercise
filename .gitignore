@@ -1,2 +1,6 @@
 soln
 .DS_STORE
+
+.ipynb_checkpoints
+
+__pycache__
